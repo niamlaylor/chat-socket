@@ -1,2 +1,2 @@
 # chat-socket
-A simple instant messaging application that uses socket.io
+Trying out socket.io in a simple instant messaging application.
